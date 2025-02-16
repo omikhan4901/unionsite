@@ -1,0 +1,344 @@
+{
+  "HomePage": {
+    "Title": {
+      "en": "Stop Working for Minimum Wage!",
+      "ger": "Arbeiten Sie nicht mehr für den Mindestlohn!"
+    },
+    "SubTitle1": {
+      "en": "Do you want fair pay? We make it possible!",
+      "ger": "Sie möchten einen gerechten Lohn? Wir machen es möglich!"
+    },
+    "SubText1": {
+      "en": "Whether you need help negotiating contracts, resolving disputes with your employer,\nor securing the best working conditions – we’ve got your back.",
+      "ger": "Ob Sie Verträge verhandeln, Konflikte mit Ihrem Arbeitgeber lösen oder einfach nur die besten Arbeitsbedingungen sicherstellen möchten – wir sind an Ihrer Seite."
+    },
+    "SubTitle2": {
+      "en": "Problems with your employer? Don’t worry, we’ll take care of it!",
+      "ger": "Streit mit dem Arbeitgeber? Keine Sorge, wir kümmern uns!"
+    },
+    "Vision": {
+      "Title": {
+        "en": "Our Vision",
+        "ger": "Vision"
+      },
+      "SubText1": {
+        "en": "Our vision is to give video editors and cutters in the YouTube and Twitch industries a voice and the support they need. These industries are often plagued by unfair working conditions, including:",
+        "ger": "Unsere Vision ist es, Videoschneidern und Cuttern im Youtube- und Twitch-Bereich eine Stimme und Unterstützung zu geben. Diese Branche ist oft von unfairen Arbeitsbedingungen geprägt, darunter:"
+      },
+      "Vision_Points": {
+        "en": [
+          "Unjust pay",
+          "Undefined working hours",
+          "Lack of regulated vacation days"
+        ],
+        "ger": [
+          "Ungerechte Entlohnung",
+          "Fehlende Arbeitszeitregelungen",
+          "Keine geregelten Ferientage"
+        ]
+      },
+      "Subtext2": {
+        "en": "We help you establish your value in the job market and protect your rights. If you’re looking for a new job, we’re here to secure the best possible conditions for you. Start today and sign up now.",
+        "ger": "Wir helfen Ihnen, Ihren Wert am Arbeitsmarkt durchzusetzen und Ihre Rechte zu wahren. Wenn Sie auf der Suche nach einem neuen Job sind, stehen wir Ihnen zur Seite, um die bestmöglichen Bedingungen herauszuholen. Starten Sie noch heute und melden Sie sich an."
+      },
+      "Button": {
+        "en": "How it Works",
+        "ger": "Wie weiter"
+      }
+    },
+    "How_It_Works": {
+      "Title": {
+        "en": "How it Works?",
+        "ger": "Wie weiter?"
+      },
+      "SubText1": {
+        "en": "We offer a variety of services at different price points. Choose the package that suits you best:",
+        "ger": "Wir bieten Ihnen verschiedene Dienstleistungen zu unterschiedlichen Konditionen an. Wählen Sie das Paket, das zu Ihnen passt:"
+      },
+
+      "Free_Option": {
+        "Title": {
+          "en": "Free Option",
+          "ger": "Gratis"
+        },
+        "SubText": {
+          "en": "We understand that not everyone can afford professional advice. That’s why we offer free assistance to those experiencing financial difficulties. Apply using our form, and we’ll fight for your rights.",
+          "ger": "Wir verstehen, dass nicht jeder sich professionelle Beratung leisten kann. Deshalb bieten wir Ihnen kostenlos Hilfe an, wenn Sie finanzielle Engpässe haben. Bewerben Sie sich über unser Formular, und wir setzen uns für Sie ein."
+        },
+        "Button": {
+          "en": "Apply for Free Support",
+          "ger": "Gratis-Beratung beantragen"
+        }
+      },
+      "Fifty_Euro_PKG": {
+        "Title": {
+          "en": "50 Euro Package",
+          "ger": "50 Euro-Paket"
+        },
+        "Points": {
+          "en": [
+            [
+              "Contract Review",
+              "We examine your contracts and explain all clauses."
+            ],
+            [
+              "Contract Negotiation",
+              "We negotiate directly with your employer to ensure fair conditions."
+            ],
+            ["Dispute Resolution", "We mediate conflicts with your employer."],
+            [
+              "Job Search Assistance",
+              "We help optimize your resumes and cover letters and support your job search."
+            ]
+          ],
+          "ger": [
+            [
+              "Vertragsberatung",
+              "Wir prüfen Ihre Verträge und erklären Ihnen alle Klauseln."
+            ],
+            [
+              "Vertragsaushandlung",
+              "Wir verhandeln direkt mit Ihrem Auftraggeber, um faire Bedingungen für Sie zu sichern."
+            ],
+            [
+              "Streitschlichtung",
+              "Bei Konflikten mit Ihrem Arbeitgeber stehen wir als Vermittler an Ihrer Seite."
+            ],
+            [
+              "Jobsuche",
+              "Wir helfen Ihnen, Lebensläufe und Motivationsschreiben zu optimieren und den perfekten Job zu finden."
+            ]
+          ]
+        },
+        "Button": {
+          "en": "Become a Member Now",
+          "ger": "Jetzt Mitglied werden"
+        }
+      }
+    },
+    "Why_Our_Services?": {
+      "Title": {
+        "en": "Why Use Our Services?",
+        "ger": "Warum unsere Dienstleistungen nutzen?"
+      },
+      "Points": {
+        "en": [
+          [
+            "Fair Pay",
+            "Many video editors are underpaid. Don’t let your valuable work be undervalued. We fight for fair hourly rates and contract terms."
+          ],
+          [
+            "Clear Working Hours",
+            "Say goodbye to endless late-night shifts without compensation. We help you secure clear and fair working hours."
+          ],
+          [
+            "Conflict Resolution",
+            "If issues arise, we’re your go-to support. From unpaid invoices to unfair treatment, we ensure your rights are upheld."
+          ],
+          [
+            "Professionalizing the Industry",
+            "Our work helps improve conditions for video editors in the long term. Every fair agreement sets new standards."
+          ]
+        ],
+        "ger": [
+          [
+            "Faire Bezahlung",
+            "Viele Cutter arbeiten unterbezahlt. Lassen Sie nicht zu, dass Ihre wertvolle Arbeit unterschätzt wird. Wir kämpfen für angemessene Stundensätze und Vertragskonditionen."
+          ],
+          [
+            "Klare Arbeitszeiten",
+            "Keine endlosen Nachtschichten ohne Entschädigung. Wir helfen Ihnen, klare und faire Arbeitszeitregelungen zu erhalten."
+          ],
+          [
+            "Sicherheit bei Konflikten",
+            "Wenn Probleme auftreten, sind wir Ihr Ansprechpartner. Ob unbezahlte Rechnungen oder unfaire Behandlung – wir sorgen dafür, dass Ihre Rechte gewahrt bleiben."
+          ],
+          [
+            "Professionalisierung der Branche",
+            "Mit unserer Arbeit tragen wir dazu bei, die Bedingungen für Cutter langfristig zu verbessern. Jede gerechte Vereinbarung setzt neue Standards."
+          ]
+        ]
+      }
+    },
+    "Why_Prof_Help_Important?": {
+      "Title": {
+        "en": "Why Professional Help with Conflicts Is Important?",
+        "ger": "Warum professionelle Hilfe bei Konflikten wichtig ist"
+      },
+      "Subtext": {
+        "en": "When you’re being treated unfairly, it’s easy to lose hope or believe that you’re powerless. We’re here to prove otherwise. Professional support helps you:",
+        "ger": "Wenn Sie schlecht behandelt werden, ist es leicht, die Hoffnung zu verlieren oder zu denken, dass man allein nichts ändern kann. Wir sind hier, um das Gegenteil zu beweisen. Professionelle Unterstützung hilft Ihnen:"
+      },
+      "Points": {
+        "en": [
+          "Understand and enforce your rights.",
+          "Focus your energy on your work instead of conflicts.",
+          "Ensure fairness and respect in your professional relationships."
+        ],
+        "ger": [
+          "Ihre Rechte zu kennen und durchzusetzen.",
+          "Ihre Energie auf Ihre Arbeit zu konzentrieren, statt auf Konflikte.",
+          "Gerechtigkeit und Respekt in der Zusammenarbeit zu erhalten."
+        ]
+      }
+    }
+  },
+  "Services": {
+    "Title": {
+      "en": "Our Services in Detail",
+      "ger": "Unsere Dienstleistungen im Detail"
+    },
+    "Contract_Review": {
+      "Title": {
+        "en": "Contract Review",
+        "ger": "Vertragsberatung"
+      },
+      "Subtext": {
+        "en": "Received a new contract but unsure if the terms are fair? We review it for:",
+        "ger": "Haben Sie einen neuen Vertrag erhalten und sind unsicher, ob die Bedingungen fair sind? Wir prüfen den Vertrag auf:"
+      },
+      "Points": {
+        "en": [
+          "Fair pay",
+          "Clear regulations on working hours and vacation",
+          "Legal and understandable clauses"
+        ],
+        "ger": [
+          "Gerechtigkeit der Entlohnung",
+          "Klare Regelungen zu Arbeitszeiten und Urlaub",
+          "Rechtssichere und nachvollziehbare Klauseln"
+        ]
+      }
+    },
+    "Contract_Negotiation": {
+      "Title": {
+        "en": "Contract Negotiation",
+        "ger": "Vertragsaushandlung"
+      },
+      "Subtext": {
+        "en": "We handle negotiations with your employer to ensure that:",
+        "ger": "Wir übernehmen die Verhandlungen mit Ihrem Auftraggeber, um sicherzustellen, dass:"
+      },
+      "Points": {
+        "en": [
+          "Your salary matches your skills and experience.",
+          "You receive adequate break and vacation times.",
+          "All agreements are transparent and fair."
+        ],
+        "ger": [
+          "Ihr Gehalt Ihren Fähigkeiten und Ihrer Erfahrung entspricht.",
+          "Sie angemessene Pausen- und Urlaubszeiten erhalten.",
+          "Alle Vereinbarungen transparent und fair gestaltet sind."
+        ]
+      }
+    },
+    "Dispute_Resolution": {
+      "Title": {
+        "en": "Dispute Resolution",
+        "ger": "Streitschlichtung"
+      },
+      "Subtext": {
+        "en": "If conflicts arise with employers or clients, we act as neutral mediators to:",
+        "ger": "Bei Konflikten mit Arbeitgebern oder Auftraggebern treten wir als neutrale Vermittler auf, um:"
+      },
+      "Points": {
+        "en": [
+          "Find a quick and fair resolution.",
+          "Legally enforce your claims.",
+          " Preserve the relationship between both parties whenever possible."
+        ],
+        "ger": [
+          "Eine schnelle und faire Lösung zu finden.",
+          "Ihre Ansprüche rechtssicher durchzusetzen.",
+          "Die Beziehung zwischen beiden Parteien möglichst zu erhalten."
+        ]
+      }
+    },
+    "Job_Search_Assistance": {
+      "Title": {
+        "en": "Job Search Assistance",
+        "ger": "Jobsuche"
+      },
+      "Subtext": {
+        "en": "We actively support you in finding new jobs or clients. Our services include:",
+        "ger": "Wir unterstützen Sie aktiv bei der Suche nach neuen Aufträgen oder Arbeitgebern. Unsere Leistungen umfassen:"
+      },
+      "Points": {
+        "en": [
+          "Optimizing resumes and cover letters.",
+          "Providing tips and strategies for applications.",
+          "Connecting you with industry contacts."
+        ],
+        "ger": [
+          "Optimierung von Lebenslauf und Motivationsschreiben.",
+          "Bewerbungstipps und -strategien.",
+          "Vermittlung von Kontakten in der Branche."
+        ]
+      }
+    }
+  },
+  "Contact": {
+    "Title": {
+        "en": "Do you have questions or want to learn more about us? Reach out:",
+        "ger":"Haben Sie Fragen oder möchten mehr über uns erfahren? Schreiben Sie uns:"
+    }
+  },
+  "Form": { 
+    "Age": {
+        "en": "Age",
+        "ger": "Alter"
+    }, 
+    "Residence": {
+        "en": "Residence", 
+        "ger": "Wohnsitz"
+    },
+    "Prev_Pay": {
+        "en": "Optional: Previous pay rate",
+        "ger": "Optional: Bisherige Entlohnung"
+    },
+     "Why": { 
+        "en": "Why I need free support",
+        "ger": "Warum ich Gratis-Beratung brauche"
+     },
+     "Submit_Form": { 
+        "en": "Submit Form", 
+        "ger": "Formular absenden"
+     },
+     "Question": {
+        "en": "Your question, if you already have one", 
+        "ger": "Ihre Frage, falls Sie bereits eine haben"
+     }
+  },
+  "FAQ": {
+    "Points": {
+      "en": [
+        [
+          "Why should I become a member?",
+          " We help you get the most out of your job – whether through better contracts, conflict resolution, or job search support."
+        ],
+        [
+          "How much does membership cost?",
+          " Membership costs 50 Euros per month. There’s also a free option for those experiencing financial hardship."
+        ],
+        [
+          "What services are included?",
+          "All members get access to contract reviews, contract negotiations, dispute resolution, and job search assistance. Free members receive basic support."
+        ]
+      ],
+      "ger": [
+        [
+          "Warum sollte ich Mitglied werden?",
+          "Wir helfen Ihnen, das Beste aus Ihrem Job herauszuholen – ob durch bessere Verträge, Konfliktlösungen oder Unterstützung bei der Jobsuche."
+        ],
+        [
+          "Was kostet die Mitgliedschaft?",
+          " Die Mitgliedschaft kostet 50 Euro pro Monat. Es gibt auch eine kostenlose Option für Personen in finanziellen Schwierigkeiten."
+        ],
+        [
+          "Welche Leistungen sind enthalten?",
+          "Alle Mitglieder erhalten Zugang zu Vertragsberatung, Vertragsaushandlung, Streitschlichtung und Jobunterstützung. Gratis-Mitglieder erhalten eine Basis-Unterstützung."
+        ]
+      ]
+    }
+  }
+}
