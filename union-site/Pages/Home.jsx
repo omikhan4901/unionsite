@@ -205,11 +205,6 @@ function Home(props) {
                 htmlInput: {
                   sx: { textAlign: "left" },
                 },
-                input: {
-                  endAdornment: (
-                    <InputAdornment position="end">.com</InputAdornment>
-                  ),
-                },
               }}
             />
             <TextField
